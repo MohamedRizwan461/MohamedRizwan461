@@ -69,7 +69,7 @@ I write the firmware that makes hardware behave: C on ARM Cortex-M, sensors, mot
 
 | Project | What it is | Links |
 |---|---|---|
-| **CAN Vehicle Network Gear Controller** 🚧 | Two-node STM32 gear-state controller with safety interlocks, J1939-style frames, FreeRTOS, Unity tests and GitHub Actions | [Details](https://riz-robotics.vercel.app/projects/can-gear-controller) |
+| **CAN Vehicle Network Gear Controller** 🚧 | Two-node STM32 gear-state controller with safety interlocks, J1939-style frames, FreeRTOS, Unity tests and GitHub Actions | [Code](https://github.com/MohamedRizwan461/can-gear-controller) · [Details](https://riz-robotics.vercel.app/projects/can-gear-controller) |
 | **AI-Driven Supply Chain Risk Predictor** | MS final project (team of 3). Predicts shipment delay; Gradient Boosting, MAE 0.422 days | [Live app](https://supply-chain-risk.streamlit.app) · [Code](https://github.com/MohamedRizwan461/supply-chain-risk) |
 | **FCHEV Boost Converter (ASMC)** | Adaptive sliding mode control for a 12–18 V → 36 V boost converter, with a Lyapunov stability proof | [Write-up](https://github.com/MohamedRizwan461/fchev-boost-converter-asmc) |
 | **Soft Robotic Glove** | Stroke-rehabilitation glove; led a 12-person team, D-H hand kinematics, SOFA FEA | [Write-up](https://github.com/MohamedRizwan461/soft-robotic-glove) |
